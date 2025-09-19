@@ -1,0 +1,17 @@
+ # Miro API Configuration
+ # IMPORTANT: Replace with your new, non-compromised credentials.
+ MIRO_ACCESS_TOKEN="eyJtaXJvLm1234567890Q_nhdWp5Npz1k8J5H3pa00Qu43O1s
+"
+ 
+ # The ID of the board you want to add images to.
+ # You can get this from the board's URL: https://miro.com/app/board/uXjV_..._=/
+ MIRO_BOARD_ID="uXjV123456"
+ 
+ # The local folder the script will watch for new images.
+ # Use forward slashes, even on Windows.
+ WATCH_FOLDER="C:/BT-DTC/1234567890T_API_101/watched_images"
+ 
+ # Your ngrok AGENT authtoken. This is required.
+ # Get it from https://dashboard.ngrok.com/get-started/your-authtoken
+ # It is NOT an API Key (which starts with 'cr_'). The authtoken usually starts with a number.
+ #NGROK_AUTHTOKEN="2abcde...xyz"

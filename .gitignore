@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv
+venv
+env
+miro-sync-env/
+
+# Environment variables
+.env

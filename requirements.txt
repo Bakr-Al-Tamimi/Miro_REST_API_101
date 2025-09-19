@@ -1,0 +1,7 @@
+requests
+python-dotenv
+Flask
+pyngrok
+watchdog
+waitress
+keyboard
